@@ -1,0 +1,7 @@
+com\SeleniumDemoProject\Frameworks\CaptureScreenshot.class
+com\SeleniumDemoProject\Pages\AuthenticationPage.class
+com\SeleniumDemoProject\Pages\ProductPage.class
+com\SeleniumDemoProject\Pages\HomePage.class
+com\SeleniumDemoProject\Frameworks\BrowserFactory.class
+com\SeleniumDemoProject\utility\Constants.class
+com\SeleniumDemoProject\utility\Log.class
